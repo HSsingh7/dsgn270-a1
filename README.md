@@ -1,4 +1,6 @@
-<h2>Jan 24, 2022</h2>
+<h2>Harjodh Sidhu<br>
+DSGN 270<br>
+Assignment 1 - Agile UX Breakdown</h2>
 
 <section>
 <h1>eBay Agile UX Breakdown</h1>
