@@ -32,12 +32,26 @@
    
   <h1>Task Flow</h1>
     
-    
-
   
-  
-
- <p></p>
+  <p>
+ Story:As a day trader, I want an extending desk so that I can stand instead of sitting for long periods of time.</p>
+ 
+ 
+ 
+ 
+<p>
+ <ul>
+  <li>User navigates to website using preferred browser through the address bar or search bar. </li>
+  <li>User searches for “Extending desk” in search bar.</li>
+   <li>User scrolls through the items listed, and selection one they like.</li>
+   <li>User selects “Buy It Now” option.</li>
+   <li>User adds payment method and shipping address.</li>
+   <li>User selects “Confirm and pay”.</li>
+   <li>User is redirected to confirmation page where user is alerted if order was successful or not.</li>
+   
+   
+ </ul>
+    </p>
       
  
     
